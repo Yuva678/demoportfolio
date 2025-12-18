@@ -12,15 +12,15 @@ Index.html
   <section id="team">
     <h2>Meet the Team</h2>
     <div class="profile">
-      <h3>Alice</h3>
+      <h3>Vishwanatha</h3>
       <p>Frontend Developer</p>
     </div>
     <div class="profile">
-      <h3>Bob</h3>
+      <h3>Anil</h3>
       <p>UI/UX Designer</p>
     </div>
     <div class="profile">
-      <h3>Charlie</h3>
+      <h3>Ganesh</h3>
       <p>JavaScript Developer</p>
     </div>
   </section>
